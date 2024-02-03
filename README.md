@@ -1,6 +1,6 @@
-# Netto-TVA
+# Neto-TVA
 
-Our Netto-TVA software will allow you to add a price before tax chosen by you and to add it to a percentage of tax on 100, which will give you at the end a price including tax ( TTC ).
+Our Neto-TVA software will allow you to add a price before tax chosen by you and to add it to a percentage of tax on 100, which will give you at the end a price including tax ( TTC ).
 
 ------------------------------------------------
 
