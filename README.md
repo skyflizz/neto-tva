@@ -1,2 +1,13 @@
-# netto-tva
-Would you like to add a certain percentage of VAT to your pre-tax price without too much effort? Then this python-coded software is for you! ( Open-Source code )
+# Netto-TVA
+
+Our Netto-TVA software will allow you to add a price before tax chosen by you and to add it to a percentage of tax on 100, which will give you at the end a price including tax ( TTC ).
+
+------------------------------------------------
+
+Why is our software right for you?
+
+- 100% Open Source software
+- You choose your VAT percentage out of 100
+- Because I'm beautiful
+
+# YOU NEED PYTHON FOR THE SOFTWARE OR IT WON'T WORK !!
